@@ -1,0 +1,32 @@
+# Compiled binaries
+*.jar
+*.war
+*.ear
+
+# Maven build directory
+target/
+
+# IDE files
+.classpath
+.project
+.settings/
+
+# Package files
+*.zip
+*.tar.gz
+# Maven
+target/
+*.jar
+*.war
+*.ear
+
+# IDE files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Servlet/Web app
+*.log
+.metadata/
